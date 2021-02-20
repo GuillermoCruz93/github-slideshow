@@ -1,5 +1,7 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
-Utiliza la flecha hacia la izquierda para volver!
+Tu Texto
+Format: ![Primera Imagen](https://imgur.com/nKk2qEh)
+#Leyenda Graciosa
+Y aqui un comentario igualmente gracioso.
